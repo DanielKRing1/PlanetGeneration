@@ -23,6 +23,6 @@ Repo here: https://github.com/DanielKRing1/CaveGeneration-2D
 
 <img src="https://github.com/DanielKRing1/PlanetGeneration/blob/main/Demo/PlanetGenerationOldTimelapse.gif" width="50%"/>
 
-#### 3.1. Terrain generation with Perline Noise and custom shader
+#### 3.1. Terrain generation with Perlin Noise and custom shader
 
 <img src="https://github.com/DanielKRing1/PlanetGeneration/blob/main/Demo/PlanetGenerationNewTimelapse.gif" width="50%"/>
