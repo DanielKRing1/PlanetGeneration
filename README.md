@@ -19,7 +19,7 @@ Procedurally generate terrain with Perlin Noise and custom shader
 
 Repo here: https://github.com/DanielKRing1/CaveGeneration-2D
 
-#### 3. Planet generation with Perline Noise and mesh generation
+#### 3. Planet generation with Perlin Noise and mesh generation
 
 <img src="https://github.com/DanielKRing1/PlanetGeneration/blob/main/Demo/PlanetGenerationOldTimelapse.gif" width="50%"/>
 
